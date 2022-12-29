@@ -14,7 +14,7 @@ const USER_CONFIG = {
   APP_SECRET: '264651cb641932d6a5589adda9219359',
 
   PROVINCE: '贵州',
-  CITY: '黔西南',
+  CITY: '兴义',
 
   USERS: [
     {
@@ -23,7 +23,7 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'oP6X15hZTJgBIecG3X-7atfKPbQU',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'H20tFG4TURo4AKWWOuXteCHyRLnuTZyGVglT_rplPyo',
+      useTemplateId: 'AecQ8uxkDXp7fClZETcHVMm9-wkberpGiy7NiDSLPUA',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '01-08',
       festivals: [
