@@ -13,10 +13,10 @@ const USER_CONFIG = {
   // 使用微信测试号：公众号APP_SECRET
   APP_SECRET: '264651cb641932d6a5589adda9219359',
 
+  IS_SHOW_COLOR:true,
+
   PROVINCE: '云南',
   CITY: '楚雄',
-  
-  IS_SHOW_COLOR:true,
 
   USERS: [
     {
