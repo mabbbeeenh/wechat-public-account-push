@@ -15,6 +15,7 @@ const USER_CONFIG = {
 
   PROVINCE: '云南',
   CITY: '楚雄',
+  
   IS_SHOW_COLOR: true,
 
   USERS: [
